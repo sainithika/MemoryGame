@@ -1,6 +1,5 @@
 import os
 
-#commenting lines for fake commit
 IMAGE_SIZE = 128
 SCREEN_SIZE = 512
 NUM_TILES_SIDE = 4
